@@ -10,7 +10,7 @@ function App() {
        <WordCard value={word}/>
       }
     </div>
-  );
+  )
 }
 
 export default App;
