@@ -5,7 +5,15 @@
   user-select: none;
   }
 
-  .activeCard { color: red;
-    background: pink;
+  .activeCard { color: rgb(255, 255, 255);
+    background: rgb(2, 82, 158);
   }
- 
+  body {
+    font-family: "Alsmile Arounvilas";
+    font-weight: 10;
+    background-color:rgb(190, 207, 255);
+    background-image: url("https://i.pinimg.com/originals/34/59/3b/34593bc301b2ab36e6fa1d7f7799d6fa.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    
+  }
