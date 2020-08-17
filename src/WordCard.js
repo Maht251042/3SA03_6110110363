@@ -49,7 +49,7 @@ export default function WordCard(props) {
                 )
             }
             <div className="activeText1">{text}</div>
-            
+            <div className="activeText2">{win}</div>
         </div>
     )
 }

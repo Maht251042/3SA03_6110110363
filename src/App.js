@@ -10,6 +10,22 @@ function App() {
   if(rand == 1) {
     word = "HelloWorld";
   }
+  else if(rand == 2){
+    word = "Handsome";   
+  }
+  else if(rand == 3){
+    word = "Beautiful";
+  }
+  else if(rand == 4){
+    word = "Smart";
+  }
+  else if(rand == 5){
+    word = "CuteGirl";
+  }
+  else if(rand == 6){
+    word = "Gentleman";
+  }
+
 
 
   return (
