@@ -6,7 +6,11 @@ const word = "Hello";
 
 function App() {
   var word = "";
-  
+  var rand = Math.floor(Math.random()*10)+1;
+  if(rand == 1) {
+    word = "HelloWorld";
+  }
+
 
   return (
     <body>

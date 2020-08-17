@@ -48,6 +48,7 @@ export default function WordCard(props) {
                     <CharacterCard value={c} key={i} activationHandler={activationHandler} attempt={state.attempt}/>
                 )
             }
+            <div className="activeText1">{text}</div>
             
         </div>
     )
