@@ -25,8 +25,18 @@ function App() {
   else if(rand == 6){
     word = "Gentleman";
   }
-
-
+  else if(rand == 7){
+    word = "Goodly";
+  }
+  else if(rand == 8){
+    word = "Fantastic";
+  }
+  else if(rand == 9){
+    word = "Supreme";
+  }
+  else if(rand == 10){
+    word = "Superlative";
+  }
 
   return (
     <body>
